@@ -45,12 +45,8 @@
 
 ---
 
-### 📊 GitHub Activity & Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muslimraza9989-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muslimraza9989-cmyk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
-</p>
+### :bar_chart: GitHub Activity & Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muslimraza9989-cmyk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
