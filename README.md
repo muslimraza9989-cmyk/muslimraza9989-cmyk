@@ -23,9 +23,9 @@ I am an undergraduate Computer Science student at COMSATS University Islamabad, 
 - **[Asan-Kissan-EdgeAI](https://github.com/muslimraza9989-cmyk/Asan-Kissan-EdgeAI):** Offline mobile scout for maize disease diagnosis using quantized CNN-Transformer fusion.
 - **AgriGrow:** MERN stack Progressive Web App for agricultural management.
 - **J.A.R.V.I.S:** Custom offline-capable voice assistant integrating Llama models.
-- **Dev Vault:** Flutter-based code snippet management architecture.
+- **[Dev Vault](https://github.com/muslimraza9989-cmyk/muslim_raza_dev_vault):** Flutter-based code snippet management architecture.
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-muslim-raza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-muslim-raza/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-4570-1500)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muslimraza9989@gmail.com)
